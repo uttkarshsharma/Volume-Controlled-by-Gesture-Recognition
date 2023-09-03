@@ -1,0 +1,8 @@
+Volume Controlled by Gesture Recognition.
+A university project i created using Python programming language.
+
+Tools used:
+=> OpenCV
+=> Numpy
+=> Mediapipe
+=> PyCAW
